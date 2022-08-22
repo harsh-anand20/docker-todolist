@@ -23,6 +23,13 @@ h1 {
   text-align: center;
 }
 
+.logout{
+  color: #F1F1F1;
+  position: absolute;
+  right: 20px;  
+  top: 20px;
+}
+
 .item {
   min-height: 70px;
   display: flex;

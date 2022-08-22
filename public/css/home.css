@@ -1,0 +1,31 @@
+body {
+    background-color: #E4E9FD;
+}
+
+.home-div {
+    text-align: center;
+}
+  
+.home-heading {
+    color: #0d6efd;
+    margin-bottom: 0;
+    margin-top: 70px;
+    font-size: 70px;
+}
+  
+.home-para {
+    font-size: 30px;
+    padding-top: 10px;
+    margin-top: 12px;
+    margin-bottom: 30px;
+}
+  
+.home-footer {
+    margin-top: 100px;
+}
+  
+footer {
+    color: white;
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
